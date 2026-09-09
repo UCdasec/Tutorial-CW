@@ -6,7 +6,7 @@ This repo contains multiple intro-level examples introducing the concepts of sid
 ChipWhisperer Installation: 
 https://ceas.mediaspace.kaltura.com/media/Tutorial_CW_Installation/1_zytbs228 
 
-CW-Lite Board-PC Connection Verification (General) 
+CW-Lite Board-PC Connection Verification 
 https://ceas.mediaspace.kaltura.com/media/Tutorial_CW_Connection_Verify/1_800go4yr 
 
 CW-Lite Side-Channel Analysis (Password)
